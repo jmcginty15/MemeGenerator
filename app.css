@@ -1,0 +1,93 @@
+.meme {
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 0 black,
+                 -1px 1px 0 black,
+                 1px -1px 0 black,
+                 -1px -1px 0 black;
+    text-align: center;
+    text-transform: uppercase;
+    position: absolute;
+    width: 100%;
+    margin: auto;
+}
+
+.top {
+    top: 3%;
+}
+
+.bottom {
+    bottom: 3%;
+}
+
+.meme-container {
+    position: relative;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: auto;
+}
+
+#meme-form {
+    position: relative;
+    border-style: outset;
+    border-color: white;
+    border-width: 5px;
+    padding: 10px;
+    width: 500px;
+}
+
+.input-box {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.orange {
+    color: orange;
+    font-weight: bold;
+}
+
+.yellow {
+    color: yellow;
+    font-weight: bold;
+}
+
+.green {
+    color: green;
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.indigo {
+    color: indigo;
+    font-weight: bold;
+}
+
+.violet {
+    color: violet;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.text {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
